@@ -9,6 +9,7 @@ import ru.kata.spring.boot_security.demo.model.User;
 import ru.kata.spring.boot_security.demo.service.RoleService;
 import ru.kata.spring.boot_security.demo.service.UserService;
 
+import javax.validation.Valid;
 import java.util.List;
 
 @RestController
@@ -30,7 +31,7 @@ public class AdminRESTController {
     }
 
     @PostMapping(value = "/create-user")
-    public ResponseEntity<User> createUser(@RequestBody User user) {
+    public ResponseEntity<User> createUser(@Valid @RequestBody User user) {
         userService.create(user);
         return new ResponseEntity<>(user, HttpStatus.OK);
     }
@@ -42,7 +43,7 @@ public class AdminRESTController {
     }
 
     @PutMapping(value = "/update-user/{id}")
-    public ResponseEntity<HttpStatus> updateUser(@RequestBody User user, @PathVariable Long id) {
+    public ResponseEntity<HttpStatus> updateUser(@Valid @RequestBody User user, @PathVariable Long id) {
         userService.update(user);
         return ResponseEntity.ok(HttpStatus.OK);
     }
