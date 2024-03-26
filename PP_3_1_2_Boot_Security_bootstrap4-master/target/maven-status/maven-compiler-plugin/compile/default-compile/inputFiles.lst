@@ -1,0 +1,17 @@
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\model\Role.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\configs\SuccessUserHandler.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\controller\UserRESTController.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\service\UserServiceImpl.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\controller\UserController.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\controller\AdminController.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\controller\AdminRESTController.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\configs\WebSecurityConfig.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\repository\RoleRepository.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\service\RoleService.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\SpringBootSecurityDemoApplication.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\init\Initialization.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\configs\MvcConfig.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\repository\UserRepository.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\service\UserService.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\model\User.java
+C:\Users\gonch\Downloads\PP_3_1_2_Boot_Security_bootstrap4-master\PP_3_1_2_Boot_Security_bootstrap4-master\src\main\java\ru\kata\spring\boot_security\demo\service\RoleServiceImpl.java
