@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4d37bdba-5a55-446a-af62-dc9b84eb5fe2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/controller/AdminRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/controller/AdminRESTController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/controller/UserRESTController.java" beforeDir="false" afterPath="$PROJECT_DIR$/PP_3_1_2_Boot_Security_bootstrap4-master/src/main/java/ru/kata/spring/boot_security/demo/controller/UserRESTController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711180713830</updated>
       <workItem from="1711180714803" duration="1066000" />
-      <workItem from="1711362071406" duration="4889000" />
+      <workItem from="1711362071406" duration="8823000" />
     </task>
     <servers />
   </component>
